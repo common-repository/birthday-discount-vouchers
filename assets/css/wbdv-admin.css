@@ -1,0 +1,6 @@
+div#wbdv-calendar {
+	background: #FFF;
+	padding: 20px;
+	margin-top: 15px;
+}
+div#wbdv-calendar .fc-toolbar { margin-bottom: 15px; }

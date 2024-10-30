@@ -1,0 +1,14 @@
+div#wbdv_date_confirm .birthday-picker {
+	border: none !important;
+	padding: 0;
+	margin: 0;
+}
+
+div#wbdv_date_confirm .birthday-picker select {
+	width: 30%;
+	margin: 0 5px;
+}
+
+div#wbdv_date_confirm_root select, div#wpdv_birthday_field_root select {
+	width: auto !important;
+}
